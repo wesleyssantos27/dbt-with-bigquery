@@ -3,6 +3,10 @@
 In this lightning project I challenge myself to create a pipeline using DBT to learn about the tool and use it for the first time.
 I tried to complete this exercise within the 4 hour period.
 
+## Data source
+
+My dataset is a small sample of Walmart sales, very possibly fictitious obtained from the internet.
+
 ## The Pipeline
 
 ![image](https://user-images.githubusercontent.com/49647094/229259300-99bf12e1-5670-44b9-b83e-1773c6fe4c3b.png)
